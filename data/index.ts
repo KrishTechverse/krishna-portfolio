@@ -206,16 +206,19 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    name: "GitHub",
     linksocial: "https://github.com/KrishTechverse",
   },
   {
     id: 2,
     img: "/twit.svg",
+    name: "Twitter",
     linksocial: "https://x.com/Krish_byte?t=hOvty9hO0jBf2H9WyxVTxQ&s=09",
   },
   {
     id: 3,
     img: "/link.svg",
+    name: "LinkedIn",
     linksocial: "https://www.linkedin.com/in/krishna-singh-5b4402253/",
   },
 ];

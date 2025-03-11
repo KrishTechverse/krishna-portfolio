@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST="{}"
+self.__REACT_LOADABLE_MANIFEST="{\"components\\\\ui\\\\GridGlobe.tsx -> ./Globe\":{\"id\":\"components\\\\ui\\\\GridGlobe.tsx -> ./Globe\",\"files\":[\"static/chunks/_app-pages-browser_components_ui_Globe_tsx.js\"]}}"
